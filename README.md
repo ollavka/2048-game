@@ -48,7 +48,7 @@ To start playing our game, just click on the **Start** button and the first tile
 <a id="start"></a>
 
 ## 🏃 How to run game
-If you have reached this point, then you are familiar with the rules of the game and are ready to start playing! If you have missed something or do not know the rules of the game, we recommend that you go back and familiarise yourself with them.
-To launch the game all you need to do is simply follow this link: [2048 Game](https://ollavka.github.io/2048-game)
+If you have reached this point, then you are familiar with the rules of the game and are ready to start playing! If you have missed something or do not know the rules of the game, we recommend that you go back and familiarise yourself with them.<br />
+To launch the game all you need to do is simply follow this link: [2048 Game](https://ollavka.github.io/2048-game)<br />
 Good luck!😉
 
